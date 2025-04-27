@@ -62,8 +62,8 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/keyur-book-store.git
-cd keyur-book-store
+git clone https://github.com/your-username/book-store.git
+cd book-store
 Set up a local server like XAMPP, WAMP, or MAMP.
 
 Move the project folder into your server directory (htdocs for XAMPP).
@@ -75,7 +75,7 @@ Open your browser and visit:
 arduino
 Copy
 Edit
-http://localhost/keyur-book-store/index.php
+http://localhost/book-store/index.php
 📸 Screenshots
 You can add some screenshots here if you want!
 
